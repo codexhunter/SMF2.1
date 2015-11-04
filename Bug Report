@@ -1,0 +1,25 @@
+Sir,
+
+simplemachines.org is a most popular & useful site i have ever seen :) Its Useful for all members... :) But Sir I have Found Some Vulnerblity In Your Web :) 
+
+1.Sqli Error
+2.xss (cross Site Scripting)
+
+
+Your Site Is Injectable & A hacker Or injector can dump Your Website Database,member info Admin info, & so on....
+Your Site have xss bug too which bug can helps a hacker to steal browser cookies & data :)
+
+For proof: http://www.clickopedia.com/games.php?cat=2' >>>>here is sqli error :)
+
+here is your all database list:http://goo.gl/SMCCcH 
+
+& here is the prove of xss bug:http://goo.gl/lWXEOW
+
+
+I can logged into your admin pannel But I never logged in :) i reported you :) 
+I am from Bangladesh :) Pls Pray For Me :) 
+Feel Free To Ask any question :)
+
+i wish you will solve the bug as soon as possible :) 
+
+Thanks :) 
